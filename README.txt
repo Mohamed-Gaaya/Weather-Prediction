@@ -1,4 +1,5 @@
 This project aims to explore and analyze a weather dataset containing information about different weather variables in Australia from the year 2007 to 2017. The dataset contains both continuous and categorical variables, some of which have missing values. The project begins with importing the necessary libraries and reading in the dataset.
+There is a link to to a video demo of the project in this link: https://drive.google.com/drive/u/0/folders/1mfITTmnC63cO5kRGcjK1LIms6RAxCBYu
 
 The dataset is then divided into different categories based on the nature of the variables. The missing values in the dataset are then handled using Random Sample Imputation and Mean Imputation methods, depending on the number of missing values and the type of variable. After handling missing values, a heatmap is plotted to analyze the correlation between different variables in the dataset.
 
